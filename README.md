@@ -8,7 +8,7 @@ Join us by getting involved in the open source community solving some interestin
 
 This repository is open to all students of MNNIT.
 
-[https://hackthepart.github.io/AvengersAssemble/](https://hackthepart.github.io/AvengersAssemble/)
+[https://github.com/hackthepart/](https://github.com/hackthepart/)
 
 
 ## What is HackThePart?
