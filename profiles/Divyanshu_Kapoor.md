@@ -2,21 +2,21 @@ Divyanshu Kapoor
 
 Location
 
-Kanpur, India
+  - Kanpur, India
 
 Academics
 
-Undergraduate in B.Tech (IT) from MNNIT
+  - Undergraduate in B.Tech (IT) from MNNIT
 
 Interests
 
-Software development,App development
+  - Software development,App development
 
 Development
 
-under progress. 
+  - Under progress. 
 
-Projects
+Projects:-
 
 Typing Master 
 
@@ -36,7 +36,7 @@ Weather App
     
 Snake Game
 
-    - Snake Game in whic snake will eat fruit and grow its size when snake mouth touches any of its body part then game will be over.
+    - Snake Game in which snake will eat fruit and grow its size when snake mouth touches any of its body part then game will be over.
     
 Profile Link
 
