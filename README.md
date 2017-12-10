@@ -158,6 +158,6 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 [Shivam 'shisen404' Sengar](https://fb.com/S3sngh) 
  
-[Tushar 'tushalien' Agarwal](https://fb.com/tushalien)
+[Tushar 'tushalien' Agrawal](https://fb.com/tushalien)
 
 [Nikhil 'nikilagar' Agarwal](https://fb.com/nikil.agar)
