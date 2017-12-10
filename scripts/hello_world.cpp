@@ -1,6 +1,6 @@
-# LANGUAGE: cpp
-# AUTHOR: Mohit Khare
-# GITHUB: https://github.com/mkfeuhrer
+// LANGUAGE: cpp
+// AUTHOR: Mohit Khare
+// GITHUB: https://github.com/mkfeuhrer
 
 #include<bits/stdc++.h>
 using namespace std;
