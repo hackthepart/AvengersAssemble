@@ -1,4 +1,4 @@
-#### Name: [JATIN RUNGTA](https://github.com/urdarinda)
+#### Name: [LOKESH KHANCHANDANI](https://github.com/pintugawar)
 - Place: Allahabad, UP, India
-- Bio: I love gaming! 
-- GitHub: [Jatin Rungta](https://github.com/urdarinda)
+- Bio: Sleeping and watching movies is my only passion.
+- GitHub: [Lokesh Khanchandani](https://github.com/pintugawar)
