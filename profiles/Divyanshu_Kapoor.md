@@ -1,24 +1,24 @@
-Divyanshu Kapoor
+# Divyanshu Kapoor
 
-Location
+### Location
 
   - Kanpur, India
 
-Academics
+### Academics
 
   - Undergraduate in B.Tech (IT) from MNNIT
 
-Interests
+### Interests
 
   - Software development,App development
 
-Development
+### Development
 
   - Under progress. 
 
-Projects:-
+### Projects:-
 
-Typing Master 
+###### Typing Master 
 
     - Tool to learn typing easily and play with friends to earn points.
     
