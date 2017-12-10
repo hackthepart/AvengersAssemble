@@ -1,6 +1,6 @@
 # HackThePart Starter Project 
 
-Hello NOOBS
+Hello NOOB
 
 Use this project to make your first contribution to the world of Open Source on GitHub :octocat: . Practice making your first pull request to a public repository before doing the real thing!
 
