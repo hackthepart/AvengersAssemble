@@ -23,3 +23,30 @@ Undergraduate in B.Tech (CSE) from MNNIT
 ### Profile Link
 
 [urdarinda] https://github.com/urdarinda
+
+
+# KRISHNA KANT SINGH
+
+### Location
+
+Allahabad, India
+
+### Academics
+
+Undergraduate in B.Tech (CE) from MNNIT
+
+### Interests
+
+- Linux
+
+### Development
+
+-  not yet
+
+### Projects
+
+- not yet
+
+### Profile Link
+
+[kks05] https://github.com/kks05
