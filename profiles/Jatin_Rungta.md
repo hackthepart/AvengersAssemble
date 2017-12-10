@@ -1,4 +1,4 @@
-# Jatin Rungta
+# Lokesh Khanchandani
 
 ### Location
 
@@ -10,16 +10,12 @@ Undergraduate in B.Tech (CSE) from MNNIT
 
 ### Interests
 
-- Linux
-
-### Development
-
-- GG
+- Android
 
 ### Projects
 
-- WILL DO LATER
+- Manage Me App(Time Table App in Avishkar2k17)
 
 ### Profile Link
 
-[urdarinda] https://github.com/urdarinda
+[Lokesh Khanchandani] https://github.com/pintugawar
