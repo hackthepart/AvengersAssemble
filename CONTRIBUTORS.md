@@ -1,4 +1,4 @@
-#### Name: [JATIN RUNGTA](https://github.com/urdarinda)
+#### Name: [UTSAV JAIN](https://github.com/Utsavjain4561)
 - Place: Allahabad, UP, India
-- Bio: I love gaming! 
-- GitHub: [Jatin Rungta](https://github.com/urdarinda)
+- Bio:  Enjoys listening to music and  gaming! 
+- GitHub: [Utsav Jain](https://github.com/Utsavjain4561)
