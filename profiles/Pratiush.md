@@ -22,4 +22,4 @@ Undergraduate in B.Tech (ECE) from MNNIT
 
 ### Profile Link
 
-[urdarinda] https://github.com/Pratiush
+[Pratiush] https://github.com/Pratiush
