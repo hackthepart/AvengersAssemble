@@ -5,5 +5,5 @@
 
 #### Name: [RAVI VERMAN](https://github.com/raviverman)
 - Place: Lucknow, UP, India
-- Bio: Turning Ideas into Code. 
+- Bio: I turn Ideas into Code. 
 - GitHub: [Ravi Verman](https://github.com/raviverman)
