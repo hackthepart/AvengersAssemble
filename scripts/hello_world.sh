@@ -1,6 +1,11 @@
-# LANGUAGE: bash
-# AUTHOR:		Jatin Rungta
-# GITHUB:		https://github.com/urdarinda
+// LANGUAGE: java
+// AUTHOR:		Utsav Jain
+// GITHUB:		https://github.com/Utsavjain4561
 
-#!/bin/bash
-echo "Hello MNNIT!"
+class hello_world
+{
+  public static void main(String[] arg)
+  {
+    System.out.prinltn("Hello MNNIT!");
+  }
+}
