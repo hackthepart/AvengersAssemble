@@ -1,4 +1,4 @@
-# Jatin Rungta
+# Utsav Jain
 
 ### Location
 
@@ -6,20 +6,20 @@ Allahabad, India
 
 ### Academics
 
-Undergraduate in B.Tech (CSE) from MNNIT
+Undergraduate in B.Tech (IT) from MNNIT
 
 ### Interests
 
-- Linux
+- Android Developement
 
 ### Development
 
-- GG
+- Android
 
 ### Projects
 
-- WILL DO LATER
+-ADVANCED ALARM
 
 ### Profile Link
 
-[urdarinda] https://github.com/urdarinda
+[Utsavjain4561] https://github.com/Utsavjain4561
