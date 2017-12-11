@@ -9,26 +9,6 @@
 - Bio: I love gaming! 
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
-#### Name: [SAHARSH JAIN](https://github.com/SAHARSH123)
-- Place: Shajapur, MP, India
-- Bio: I believe in Hardwork! 
-- GitHub: [Saharsh Jain](https://github.com/SAHARSH123)
-
-#### Name: [ANISHA KUMARI](https://github.com/anishakinshu)
-- Place: Allahabad, UP, India
-- Bio: I love gaming! 
-- GitHub: [ANISHA KUMARI](https://github.com/anishakinshu)
-
-#### Name: [RAJAN JHA](https://github.com/iamrajanjharj)
-- Place: Allahabad, UP, India
-- Bio: Believer and In Love with Computers 
-- GitHub: [Rajan Jha](https://github.com/iamrajanjharj)
-
-#### Name: [RAVI VERMAN](https://github.com/raviverman)
-- Place: Lucknow, UP, India
-- Bio: I turn Ideas into Code. 
-- GitHub: [Ravi Verman](https://github.com/raviverman)
-
 
 #### Name: [ARYAN KHANNA](https://github.com/Netfreak21)
 - Place: Allahabad, UP, India
@@ -60,3 +40,9 @@
 - Place: Lucknow, UP, India
 - Bio: I love wasting my time on computer. 
 - GitHub: [Mohammed Farhan](https://github.com/lordfarhan40)
+
+#### Name: [NICK NITIN](https://github.com/nitindoodhiya)
+-Place: Allahabad, UP, India.
+-Bio: Just a begginer but believes in going high and high.
+-Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
+
