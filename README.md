@@ -10,6 +10,9 @@ This repository is open to all students of MNNIT.
 
 [https://github.com/hackthepart/](https://github.com/hackthepart/)
 
+#### **Make sure to get your student pack here:**
+[https://education.github.com/pack](https://education.github.com/pack)
+
 
 ## What is HackThePart?
 
