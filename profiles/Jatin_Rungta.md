@@ -1,12 +1,11 @@
-# Jatin Rungta
-
+# Krishna Kant Singh
 ### Location
 
 Allahabad, India
 
 ### Academics
 
-Undergraduate in B.Tech (CSE) from MNNIT
+Undergraduate in B.Tech (CE) from MNNIT
 
 ### Interests
 
@@ -14,12 +13,12 @@ Undergraduate in B.Tech (CSE) from MNNIT
 
 ### Development
 
-- GG
+- not yet
 
 ### Projects
 
-- WILL DO LATER
+- not yet
 
 ### Profile Link
 
-[urdarinda] https://github.com/urdarinda
+[kks05] https://github.com/kks05
