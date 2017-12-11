@@ -94,3 +94,8 @@
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
 
+#### Name: [RANJEET KUMAR](https://github.com/rkranjeet)
+- Place: New-Delhi , India
+- Bio: Beginner but Hard-Learner
+- Github: [Ranjeet Kumar](https://github.com/rkranjeet)
+
