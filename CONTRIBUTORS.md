@@ -89,3 +89,8 @@
 - Place: Lucknow, UP, India
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
+
+#### Name: [LOKESH KHANCHANDANI](https://github.com/LokeshKhanchandani)
+- Place: Agra, UP, India
+- Bio: Live to enjoy. 
+- GitHub: [Lokesh Khanchandani](https://github.com/LokeshKhanchandani)
