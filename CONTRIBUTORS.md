@@ -3,7 +3,10 @@
 - Bio: I love gaming! 
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
-
+#### Name: [AVISHEK SANTHALIYA](https://github.com/avisheksanvas)
+- Place: Allahabad, UP, India
+- Bio: The first avenger. :p 
+- GitHub: [avisheksanvas](https://github.com/avisheksanvas)
 
 #### Name: [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - Place: Allahabad,UP,India
@@ -25,4 +28,3 @@
 - Place: Lucknow, UP, India
 - Bio: I love wasting my time on computer. 
 - GitHub: [Mohammed Farhan](https://github.com/lordfarhan40)
-
