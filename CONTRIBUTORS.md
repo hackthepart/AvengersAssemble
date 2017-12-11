@@ -83,3 +83,7 @@
 - Bio: Noobie
 - Github: [Arpit Gupta](https://github.com/Codarp)
 
+#### Name: [ABHEY RANA](https://github.com/Abhey)
+- Place: Lucknow, UP, India
+- Bio: Huge DC Comic fan and pizza lover
+- Github: [Abhey Rana](https://github.com/Abhey)
