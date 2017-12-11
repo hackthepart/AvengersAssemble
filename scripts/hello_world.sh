@@ -1,6 +1,7 @@
 # LANGUAGE: bash
-# AUTHOR:		Jatin Rungta
-# GITHUB:		https://github.com/urdarinda
+# AUTHOR:		Aniket Kumar
+# GITHUB:		https://github.com/Aniket468
 
 #!/bin/bash
-echo "Hello MNNIT!"
+echo "Hello World!"
+echo "Hello Open Source"
