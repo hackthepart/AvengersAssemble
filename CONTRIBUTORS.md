@@ -50,3 +50,7 @@
 -Bio: Just a begginer but believes in going high and high.
 -Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
 
+#### Name: [HRIKSHIT RAJ CHAUHAN](https://github.com/methDeveloper)
+- Place: Dehradun, Uttarakhand, India
+- Bio: Someone on the lookout for something new.
+- GitHub: [Hrikshit Raj Chauhan](https://github.com/methDeveloper)
