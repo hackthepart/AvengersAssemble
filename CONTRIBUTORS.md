@@ -67,7 +67,14 @@
 -Bio: A Curious Sophomore
 -GitHub: [Siddharth Majumdar](https://github.com/sidmojo)
 
+
+#### Name: [ARSH SINGH](https://github.com/iosdev474)
+- Place: Allahabad, UP, India
+- Bio: I love to learn new things. 
+- GitHub: [ARSH SINGH](https://github.com/iosdev474)
+
 #### Name: [ANSHUL SINGH](https://github.com/iosdev747)
 - Place: Allahabad, UP, India
 - Bio: I love gaming too!!!
 - Github: [iosdev747](https://github.com/iosdev747)
+
