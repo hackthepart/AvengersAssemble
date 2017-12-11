@@ -3,6 +3,11 @@
 - Bio: I love gaming! 
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
+#### Name: [ANISHA KUMARI](https://github.com/anishakinshu)
+- Place: Allahabad, UP, India
+- Bio: I love gaming! 
+- GitHub: [ANISHA KUMARI](https://github.com/anishakinshu)
+
 #### Name: [RAJAN JHA](https://github.com/iamrajanjharj)
 - Place: Allahabad, UP, India
 - Bio: Believer and In Love with Computers 
