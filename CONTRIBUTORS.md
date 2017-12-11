@@ -51,6 +51,12 @@
 -Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
 
 
+#### Name: [VIHAN RAI](https://github.com/thevihanrai)
+- Place: Bengaluru, Karnataka, India
+- Bio: I am the noob king, kneel before me. 
+- GitHub: [Vihan Rai](https://github.com/thevihanrai)
+
+
 #### Name: [HRIKSHIT RAJ CHAUHAN](https://github.com/methDeveloper)
 - Place: Dehradun, Uttarakhand, India
 - Bio: Someone on the lookout for something new.
@@ -60,4 +66,3 @@
 -Place: Kanpur, UP, India
 -Bio: A Curious Sophomore
 -GitHub: [Siddharth Majumdar](https://github.com/sidmojo)
-
