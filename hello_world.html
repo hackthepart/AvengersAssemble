@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<title>
+Hello World Using HTML
+</title>
+<style>
+#demo {
+	background-color: rgb(174,176,178);
+	float: center;
+	font-family: cursive;
+	font-size: 100px;
+}
+#demo2 {
+	background-color: rgb(174,176,178);
+	float: center;
+	font-size: 70px;
+}
+</style>
+<body>
+<div id="demo">
+HELLO WORLD!<br>
+Welcome to MNNIT's Hack36.
+</div>
+<div id="demo2" style="display: none;">Author : Vivek Rathi<br> Github Profile Link: <a href="https://github.com/vivekrathi53"> Vivek Rathi</a><br>Language used: HTML</div>
+<button type="button" id="demo3" onclick="change()"><p style="font-style: 'cursive';font-size: 40px;">
+Click me for details of the Author</p></button>
+</body>
+<script type="text/javascript">
+	function change(){ 
+document.getElementById('demo2').style.display='block';
+}
+</script>
+</html>
