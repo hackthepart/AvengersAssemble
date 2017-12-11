@@ -50,3 +50,7 @@
 -Bio: Just a begginer but believes in going high and high.
 -Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
 
+#### Name: [VIHAN RAI](https://github.com/thevihanrai)
+- Place: Bengaluru, Karnataka, India
+- Bio: I am the noob king, kneel before me. 
+- GitHub: [Vihan Rai](https://github.com/thevihanrai)
