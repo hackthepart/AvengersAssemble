@@ -3,6 +3,12 @@
 - Bio: I love gaming! 
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
+
+#### Name: [ARYAN KHANNA](https://github.com/Netfreak21)
+- Place: Allahabad, UP, India
+- Bio: Interested about everything but lasts doing nothing.
+- GitHub: [Aryan Khanna](https://github.com/Netfreak21)
+
 #### Name: [AVISHEK SANTHALIYA](https://github.com/avisheksanvas)
 - Place: Allahabad, UP, India
 - Bio: The first avenger. :p 
@@ -28,3 +34,4 @@
 - Place: Lucknow, UP, India
 - Bio: I love wasting my time on computer. 
 - GitHub: [Mohammed Farhan](https://github.com/lordfarhan40)
+
