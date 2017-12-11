@@ -78,3 +78,8 @@
 - Bio: I love gaming too!!!
 - Github: [iosdev747](https://github.com/iosdev747)
 
+#### Name: [ARPIT GUPTA](https://github.com/Codarp)
+- Place: Lucknow, UP, India
+- Bio: Noobie
+- Github: [Arpit Gupta](https://github.com/Codarp)
+
