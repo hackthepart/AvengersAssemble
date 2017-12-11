@@ -89,3 +89,8 @@
 - Place: Lucknow, UP, India
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
+
+### Name: [KHYATI GARG](https://github.com/khyatigarg2014)
+-Place: Allahabad, UP,India
+-Bio: love to learn
+-Github: [khyati garg](https://github.com/khyatigarg2014)
