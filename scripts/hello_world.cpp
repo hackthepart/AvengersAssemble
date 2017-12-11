@@ -1,13 +1,14 @@
-/* LANGUAGE: C++
-# AUTHOR:		Akshay Sharma
-# GITHUB:		https://github.com/akshay31057
-*/
+// LANGUAGE: cpp
+// AUTHOR: Mohit Khare
+// GITHUB: https://github.com/mkfeuhrer
 
 #include<bits/stdc++.h>
 using namespace std;
+
 int main()
 {
-	cout<<"Hello World!"<<endl;
+
+	cout << "Hello World\n";
 	return 0;
 }
 

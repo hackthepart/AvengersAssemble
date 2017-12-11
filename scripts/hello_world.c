@@ -1,12 +1,16 @@
-/* LANGUAGE: C
-# AUTHOR:		Akshay Sharma
-# GITHUB:		https://github.com/akshay31057
-*/
+# LANGUAGE: C
+# AUTHOR: SAHARSH JAIN
+# GITHUB: https://github.com/SAHARSH123
 
-#include<stdio.h>
+#include <stdio.h>
+ 
 int main()
 {
-	printf("Hello World!\n");
-	return 0;
+  char a = 'H', b = 'e', c = 'l', d = 'o';
+  char e = 'w', f = 'r', g = 'd';
+ 
+  printf("%c%c%c%c%c %c%c%c%c%c", a, b, c, c, d, e, d, f, c, g);
+ 
+  return 0;
 }
 
