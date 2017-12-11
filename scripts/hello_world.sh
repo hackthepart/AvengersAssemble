@@ -5,10 +5,3 @@
 #!/bin/bash
 echo "Hello MNNIT!"
 
-
-# LANGUAGE: bash
-# AUTHOR:		Rajan Jha
-# GITHUB:		https://github.com/iamrajanjharj
-
-#!/bin/bash
-echo "Hello World"
