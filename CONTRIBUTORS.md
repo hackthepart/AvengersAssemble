@@ -3,6 +3,11 @@
 - Bio: I love gaming! 
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
+#### Name: [RAVI VERMAN](https://github.com/raviverman)
+- Place: Lucknow, UP, India
+- Bio: I turn Ideas into Code. 
+- GitHub: [Ravi Verman](https://github.com/raviverman)
+
 
 #### Name: [ARYAN KHANNA](https://github.com/Netfreak21)
 - Place: Allahabad, UP, India
