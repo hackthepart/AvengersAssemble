@@ -9,6 +9,12 @@
 - Bio: I love gaming! 
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
+
+#### Name: [AKSHAY SHARMA](https://github.com/akshay31057)
+- Place: Allahabad, UP, India
+- Bio: I love to explore! 
+- GitHub: [Akshay Sharma](https://github.com/akshay31057)
+
 #### Name: [KARTIK MAHENDRU](https://github.com/kartikMahendru)
 - Place: Allahabad, UP, India
 - Bio: I am just a curious computer science learner 
@@ -87,3 +93,4 @@
 - Place: Lucknow, UP, India
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
+
