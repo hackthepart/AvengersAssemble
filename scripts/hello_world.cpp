@@ -1,12 +1,13 @@
-//language: c++
-//author : ANISHA KUMARI
-//github:  https://github.com/anishakinshu
+// LANGUAGE: cpp
+// AUTHOR: Mohit Khare
+// GITHUB: https://github.com/mkfeuhrer
 
 #include<bits/stdc++.h>
 using namespace std;
 
 int main()
 {
-    cout << "HELLO , WORLD!" << "\n";
-    return 0;
+
+	cout << "Hello World\n";
+	return 0;
 }
