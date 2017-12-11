@@ -45,7 +45,6 @@
 - Bio: Cs Geek
 - GitHub: [Mohit Khare](https://github.com/mkfeuhrer)
 
-
 #### Name: [MOHAMMED FARHAN](https://github.com/lordfarhan40)
 - Place: Lucknow, UP, India
 - Bio: I love wasting my time on computer. 
@@ -56,12 +55,10 @@
 -Bio: Just a begginer but believes in going high and high.
 -Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
 
-
 #### Name: [VIHAN RAI](https://github.com/thevihanrai)
 - Place: Bengaluru, Karnataka, India
 - Bio: I am the noob king, kneel before me. 
 - GitHub: [Vihan Rai](https://github.com/thevihanrai)
-
 
 #### Name: [HRIKSHIT RAJ CHAUHAN](https://github.com/methDeveloper)
 - Place: Dehradun, Uttarakhand, India
@@ -72,7 +69,6 @@
 -Place: Kanpur, UP, India
 -Bio: A Curious Sophomore
 -GitHub: [Siddharth Majumdar](https://github.com/sidmojo)
-
 
 #### Name: [ARSH SINGH](https://github.com/iosdev474)
 - Place: Allahabad, UP, India
@@ -93,4 +89,3 @@
 - Place: Lucknow, UP, India
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
-
