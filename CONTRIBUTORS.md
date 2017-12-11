@@ -4,6 +4,7 @@
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
 
+
 #### Name: [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - Place: Allahabad,UP,India
 - Bio: Loves Android app programming
@@ -18,3 +19,10 @@
 - Place: Kanpur, UP, India
 - Bio: Cs Geek
 - GitHub: [Mohit Khare](https://github.com/mkfeuhrer)
+
+
+#### Name: [MOHAMMED FARHAN](https://github.com/lordfarhan40)
+- Place: Lucknow, UP, India
+- Bio: I love wasting my time on computer. 
+- GitHub: [Mohammed Farhan](https://github.com/lordfarhan40)
+
