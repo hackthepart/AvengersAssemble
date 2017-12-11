@@ -89,3 +89,8 @@
 - Place: Lucknow, UP, India
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
+
+#### Name: [ANKUR MISHRA](https://github.com/kaiatgit)
+- Place: Lucknow, UP, India
+- Bio: Noobie at Git. Barca fan. 
+- Github: [Ankur Mishra](https://github.com/kaiatgit)
