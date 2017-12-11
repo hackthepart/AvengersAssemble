@@ -1,4 +1,4 @@
-# Jatin Rungta
+# Aniket Kumar
 
 ### Location
 
@@ -10,16 +10,13 @@ Undergraduate in B.Tech (CSE) from MNNIT
 
 ### Interests
 
-- Linux
-
-### Development
-
-- GG
+- Android Development,Software developmwnt And contibuting to open to source 
 
 ### Projects
 
-- WILL DO LATER
+- Worked on Android app Development 
+[Aniket468] https://github.com/Aniket468/PeCon
 
 ### Profile Link
 
-[urdarinda] https://github.com/urdarinda
+[Aniket468] https://github.com/Aniket468
