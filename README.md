@@ -132,6 +132,7 @@ echo "Hello MNNIT!"
 
 ```
 Name the file `hello_world.xx`. e.g., `hello_world.sh` .
+Also don't add a language already present. Try to add something new :smile:
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. Here is an example.
 
