@@ -50,3 +50,7 @@
 -Bio: Just a begginer but believes in going high and high.
 -Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
 
+#### Name: [SIDDHARTH MAJUMDAR](https://github.com/sidmojo)
+-Place: Kanpur, UP, India
+-Bio: A Curious Sophomore
+-GitHub: [Siddharth Majumdar](https://github.com/sidmojo)
