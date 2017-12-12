@@ -94,3 +94,8 @@
 - Place: Lucknow, UP, India
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
+
+#### Name: [Manas Abhilash](https://github.com/geekymanas)
+- Place: Hyderabad,Telangana,India
+- Bio: Love Programming 
+- Github: [Manas Abhilash](https://github.com/geekymanas)
