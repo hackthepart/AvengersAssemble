@@ -90,6 +90,12 @@
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
 
+
+#### Name: [RANJEET KUMAR](https://github.com/rkranjeet)
+- Place: New-Delhi , India
+- Bio: Beginner but Hard-Learner
+- Github: [Ranjeet Kumar](https://github.com/rkranjeet)
+
 #### Name: [UTSAV JAIN](https://github.com/Utsavjain4561)
 - Place: Agra, UP, India
 - Bio: Be useful and resourceful.
@@ -99,4 +105,5 @@
 - Place: Lucknow, UP, India
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
+
 
