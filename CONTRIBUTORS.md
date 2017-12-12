@@ -139,3 +139,10 @@
 - Place: Allahabad,UP,India
 - Bio:  An Ingenuitive Sophomore
 - Github: [Akhil Jain](https://github.com/akhil1907)
+
+
+#### Name: [MEHUL GARG](https://github.com/gargmehul10)
+- Place: Kanpur, UP, India
+- Bio: I love developing.
+- GitHub: [Mehul Garg](https://github.com/gargmehul10)
+
