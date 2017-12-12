@@ -10,6 +10,12 @@
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
 
+#### Name: [DIVYANSHU KAPOOR](https://github.com/divyanshukapoor)
+- Place: Allahabad, UP, India
+- Bio: I love learning! 
+- GitHub: [Divyanshu Kapoor](https://github.com/divyanshukapoor)
+
+
 #### Name: [AKSHAY SHARMA](https://github.com/akshay31057)
 - Place: Allahabad, UP, India
 - Bio: I love to explore! 
