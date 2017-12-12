@@ -1,24 +1,22 @@
 # Milan Bavishi
 
 ### Location
-
 Bhavnagar,Gujarat,India
 
 ### Academics
-MNNIT Allahabad second year CSE
-Gyanmanjari Vidyapith,Bhavnagar (Higher secondary Education)
-B.M.Commerce High School,Bhavnagar (Primary and Secondary Education)
-  
+* MNNIT Allahabad second year CSE
+
 ### Interests
-Listening to Music and Singing
-Watching Football,Cricket,WWE
-Coding and Web Development
+* Listening to Music and Singing
+* Watching Football,Cricket,WWE
+* Coding and Web Development
 
 ### Development
-My life :)
+* Developing a **GOOD LIFE** :)
 
 ### Projects
-Not Uploaded yet
+* [Sangeet-The Music Streaming Website](https://github.com/jarvisdev/Sangeet)
+  -A Music Streaming Website with some amazing features
 
 ### Profile Link
 
