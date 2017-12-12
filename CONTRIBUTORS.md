@@ -139,3 +139,9 @@
 - Place: Allahabad,UP,India
 - Bio:  An Ingenuitive Sophomore
 - Github: [Akhil Jain](https://github.com/akhil1907)
+
+
+#### Name: [ARJIT GUPTA](https://github.com/arjitg)
+- Place: Allahabad, UP, India
+- Bio: Used to pull all-nighters, now pulling requests 
+- GitHub: [Arjit Gupta](https://github.com/arjitg)
