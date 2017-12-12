@@ -94,3 +94,8 @@
 - Place: Lucknow, UP, India
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
+
+#### Name: [MILAN BAVISHI](https://github.com/jarvisdev)
+- Place: Bhavnagar, Gujarat, India
+- Bio: Music Maniac,Interested in Coding and Development 
+- Github: [Milan Bavishi](https://github.com/jarvisdev)
