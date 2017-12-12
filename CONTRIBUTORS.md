@@ -90,12 +90,45 @@
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
 
+### Name: [KHYATI GARG](https://github.com/khyatigarg2014)
+-Place: Allahabad, UP,India
+-Bio: love to learn
+-Github: [khyati garg](https://github.com/khyatigarg2014)
+
+#### Name: [LOKESH KHANCHANDANI](https://github.com/LokeshKhanchandani)
+- Place: Agra, UP, India
+- Bio: Live to enjoy. 
+- GitHub: [Lokesh Khanchandani](https://github.com/LokeshKhanchandani)
+
+
+#### Name: [RANJEET KUMAR](https://github.com/rkranjeet)
+- Place: New-Delhi , India
+- Bio: Beginner but Hard-Learner
+- Github: [Ranjeet Kumar](https://github.com/rkranjeet)
+
+#### Name: [UTSAV JAIN](https://github.com/Utsavjain4561)
+- Place: Agra, UP, India
+- Bio: Be useful and resourceful.
+- GitHub: [Utsav Jain](https://github.com/Utsavjain4561)
+
+
 #### Name: [ANKUR MISHRA](https://github.com/kaiatgit)
 - Place: Lucknow, UP, India
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
 
-#### Name: [MILAN BAVISHI](https://github.com/jarvisdev)
-- Place: Bhavnagar, Gujarat, India
-- Bio: Music Maniac,Interested in Coding and Development 
+
+#### Name: [VAIBHAV RAIZADA](https://github.com/vaibhav28398)
+- Place: Lucknow, U.P., India
+- Bio: Cogitative, Learner and a big foodie.
+- GitHub: [Vaibhav Raizada](https://github.com/vaibhav28398)
+
+#### Name: [Manas Abhilash](https://github.com/geekymanas)
+- Place: Hyderabad,Telangana,India
+- Bio: Love Programming 
+- Github: [Manas Abhilash](https://github.com/geekymanas)
+
+#### Name: [Milan Bavishi](https://github.com/jarvisdev)
+- Place: Bhavnagar,Gujarat,India
+- Bio: Music Maniac,Coding and Development enthusiast
 - Github: [Milan Bavishi](https://github.com/jarvisdev)
