@@ -90,6 +90,11 @@
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
 
+#### Name: [LOKESH KHANCHANDANI](https://github.com/LokeshKhanchandani)
+- Place: Agra, UP, India
+- Bio: Live to enjoy. 
+- GitHub: [Lokesh Khanchandani](https://github.com/LokeshKhanchandani)
+
 
 #### Name: [RANJEET KUMAR](https://github.com/rkranjeet)
 - Place: New-Delhi , India
@@ -105,5 +110,4 @@
 - Place: Lucknow, UP, India
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
-
 
