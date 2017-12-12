@@ -94,3 +94,9 @@
 -Place: Allahabad, UP,India
 -Bio: love to learn
 -Github: [khyati garg](https://github.com/khyatigarg2014)
+
+#### Name: [ANKUR MISHRA](https://github.com/kaiatgit)
+- Place: Lucknow, UP, India
+- Bio: Noobie at Git. Barca fan. 
+- Github: [Ankur Mishra](https://github.com/kaiatgit)
+
