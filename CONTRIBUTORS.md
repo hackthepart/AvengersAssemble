@@ -111,6 +111,11 @@
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
 
+#### Name: [VAIBHAV RAIZADA](https://github.com/vaibhav28398)
+- Place: Lucknow, U.P., India
+- Bio: Cogitative, Learner and a big foodie.
+- GitHub: [Vaibhav Raizada](https://github.com/vaibhav28398)
+
 #### Name: [Manas Abhilash](https://github.com/geekymanas)
 - Place: Hyderabad,Telangana,India
 - Bio: Love Programming 
