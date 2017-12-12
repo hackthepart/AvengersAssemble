@@ -89,3 +89,8 @@
 - Place: Lucknow, UP, India
 - Bio: Huge DC Comic fan and pizza lover
 - Github: [Abhey Rana](https://github.com/Abhey)
+
+#### Name:[Manas Abhilash](https://github.com/geekymanas)
+- Place: Hyderabad,Telangana,India
+- Bio: Programming is Life
+- Github: [Manas Abhilash](https://github.com/geekymanas)
