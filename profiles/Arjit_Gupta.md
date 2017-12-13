@@ -6,7 +6,7 @@ Allahabad, UP, India
 
 ### Academics
 
-Our Own High School
+B.Tech. CSE Third year UG at MNNIT Allahabad
 
 ### Interests
 
