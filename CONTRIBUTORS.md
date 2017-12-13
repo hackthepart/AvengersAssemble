@@ -139,3 +139,8 @@
 - Place: Allahabad,UP,India
 - Bio:  An Ingenuitive Sophomore
 - Github: [Akhil Jain](https://github.com/akhil1907)
+
+#### Name: [MREDUL JAIN](https://github.com/mjl4043)
+-Place: Ludhiana,Punjab,India
+-Bio: Coding is life. 
+-Github: [Mredul Jain](https://githubcom/mjl4043)
