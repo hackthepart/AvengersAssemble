@@ -144,3 +144,9 @@
 -Place: Ludhiana,Punjab,India
 -Bio: Coding is life. 
 -Github: [Mredul Jain](https://githubcom/mjl4043)
+
+#### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+- Place: Rudrapur, Uttarakhand, India
+- Bio: I like to play games and code them out . 
+- GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+
