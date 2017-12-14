@@ -150,3 +150,8 @@
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
+#### Name: [Sparsh Mittal](https://github.com/Sahaj-Bamba)
+- Place: Muzaffarnagar, UP, India
+- Bio: An enthusiast coder who loves gaming. 
+- GitHub: [Sparsh Mittal](https://github.com/Sparsh-Mittal)
+
