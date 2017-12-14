@@ -1,18 +1,31 @@
-Sparsh Mittal
+# Sparsh Mittal
 
-Location
+### Location
+
 Allahabad, India
 
-Academics
+### Academics
+
 Undergraduate in B.Tech (CSE) from MNNIT
 
-Interests
-Android Development
-Java Programming
-Development
+### Interests
 
-See My Profile
-Projects
-To Be Added
-Profile Link
-kartikMahendru
+- Android development
+- Java Programming
+- Coding
+
+### Development
+
+- Class Saver App
+  Android Application for Time Table and Attendance Manager
+  Gives notification 15 minutes before class
+  and contains Auto-Mute feature
+
+
+### Projects
+
+- To Be Added
+
+### Profile Link
+
+[Sparsh Mittal](https://github.com/Sparsh-Mittal)
