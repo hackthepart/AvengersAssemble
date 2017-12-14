@@ -150,3 +150,7 @@
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
+#### Name: [SURBHIT AWASTHI](https://github.com/surbhitawasthi)
+- Place: Lucknow, UP, India
+- Bio: Kind of development lover and CTF enthusiast 
+- GitHub: [SURBHIT AWASTHI](https://github.com/surbhitawasthi)
