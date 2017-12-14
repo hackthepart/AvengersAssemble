@@ -150,3 +150,7 @@
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
+#### Name: [SWATI JAIN](https://github.com/swati345)
+-Place: Ghaziabad,UP,India
+-Bio: Cynical optimist and a knowledgeable idiot .
+-Github: [Swati Jain](https://github.com/swati345)
