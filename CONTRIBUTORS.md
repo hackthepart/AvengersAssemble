@@ -150,3 +150,7 @@
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
+#### Name: [ANUJ MODI](https://github.com/descifrado)
+- Place: Ghaziabad, Uttar Pradesh, India.
+- Bio: A programming ENTHUSIAST....
+- GitHub: [ANUJ MODI](https://github.com/descifrado)
