@@ -167,3 +167,7 @@
 - Bio: An enthusiast coder who loves gaming. 
 - GitHub: [Sparsh Mittal](https://github.com/Sparsh-Mittal)
 
+#### Name: [SWATI JAIN](https://github.com/swati345)
+-Place: Ghaziabad,UP,India
+-Bio: Cynical optimist and a knowledgeable idiot .
+-Github: [Swati Jain](https://github.com/swati345)
