@@ -149,4 +149,8 @@
 - Place: Rudrapur, Uttarakhand, India
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+#### Name: [Vivek Rathi](https://github.com/vivekrathi53)
+- Place: Allahabad, Uttar Pradesh , India
+- Bio: Very enthusiastic to learn.
+- Github: [Vivek Rathi](https://github.com/vivekrathi53)
 
