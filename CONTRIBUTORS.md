@@ -183,4 +183,8 @@
 -Place: Ghaziabad,UP,India
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
+#### Name: [JUGTA RAM](https://github.com/jugtaram)
+- Place: Allahabad, UP, India
+- Bio: I like to develope things with new language/technic
+- GitHub: [avisheksanvas](https://github.com/avisheksanvas
 
