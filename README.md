@@ -8,6 +8,9 @@ Join us by getting involved in the open source community solving some interestin
 
 This repository is open to all students of MNNIT.
 
+ALSO NOTE THAT THIS IS INDEPENDENT OF HACK36 and is being solely done for the chidren of MNNIT to get their hands dirty with open source 
+:joy:
+
 [https://github.com/hackthepart/](https://github.com/hackthepart/)
 
 #### **Make sure to get your student pack here:**

@@ -10,6 +10,12 @@
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
 
+#### Name: [RITUPARNO BISWAS](https://github.com/roopbiswas)
+- Place: Allahabad, UP, India
+- Bio: Passionate developer! 
+- GitHub: [Rituparno Biswas](https://github.com/roopbiswas)
+
+
 #### Name: [DIVYANSHU KAPOOR](https://github.com/divyanshukapoor)
 - Place: Allahabad, UP, India
 - Bio: I love learning! 
@@ -140,6 +146,10 @@
 - Bio:  An Ingenuitive Sophomore
 - Github: [Akhil Jain](https://github.com/akhil1907)
 
+#### Name: [MEHUL GARG](https://github.com/gargmehul10)
+- Place: Kanpur, UP, India
+- Bio: I love developing.
+- GitHub: [Mehul Garg](https://github.com/gargmehul10)
 #### Name: [MREDUL JAIN](https://github.com/mjl4043)
 -Place: Ludhiana,Punjab,India
 -Bio: Coding is life. 
@@ -154,3 +164,23 @@
 - Place: Allahabad, UP, India
 - Bio: A code blooded noobie 
 - GitHub: [Shashwat Pandey](https://github.com/shashwat1998)
+
+#### Name: [Vivek Rathi](https://github.com/vivekrathi53)
+- Place: Allahabad, Uttar Pradesh , India
+- Bio: Very enthusiastic to learn.
+- Github: [Vivek Rathi](https://github.com/vivekrathi53)
+
+#### Name: [ANUJ MODI](https://github.com/descifrado)
+- Place: Ghaziabad, Uttar Pradesh, India.
+- Bio: A programming ENTHUSIAST....
+- GitHub: [ANUJ MODI](https://github.com/descifrado)
+#### Name: [Sparsh Mittal](https://github.com/Sparsh-Mittal)
+- Place: Muzaffarnagar, UP, India
+- Bio: An enthusiast coder who loves gaming. 
+- GitHub: [Sparsh Mittal](https://github.com/Sparsh-Mittal)
+
+#### Name: [SWATI JAIN](https://github.com/swati345)
+-Place: Ghaziabad,UP,India
+-Bio: Cynical optimist and a knowledgeable idiot .
+-Github: [Swati Jain](https://github.com/swati345)
+
