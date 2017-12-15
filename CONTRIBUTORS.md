@@ -144,3 +144,9 @@
 -Place: Ludhiana,Punjab,India
 -Bio: Coding is life. 
 -Github: [Mredul Jain](https://githubcom/mjl4043)
+
+
+#### Name: [SHEKHAR KUMAR](https://github.com/shekharmnnit)
+-Place: Allahabad,UP,India
+-Bio: Loves travelling
+-Github: [Shekhar Kumar](https://github.com/shekharmnnit)
