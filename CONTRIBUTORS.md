@@ -140,9 +140,17 @@
 - Bio:  An Ingenuitive Sophomore
 - Github: [Akhil Jain](https://github.com/akhil1907)
 
-
 #### Name: [MEHUL GARG](https://github.com/gargmehul10)
 - Place: Kanpur, UP, India
 - Bio: I love developing.
 - GitHub: [Mehul Garg](https://github.com/gargmehul10)
+#### Name: [MREDUL JAIN](https://github.com/mjl4043)
+-Place: Ludhiana,Punjab,India
+-Bio: Coding is life. 
+-Github: [Mredul Jain](https://githubcom/mjl4043)
+
+#### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+- Place: Rudrapur, Uttarakhand, India
+- Bio: I like to play games and code them out . 
+- GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
