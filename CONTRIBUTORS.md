@@ -10,6 +10,12 @@
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
 
+#### Name: [RITUPARNO BISWAS](https://github.com/roopbiswas)
+- Place: Allahabad, UP, India
+- Bio: Passionate developer! 
+- GitHub: [Rituparno Biswas](https://github.com/roopbiswas)
+
+
 #### Name: [DIVYANSHU KAPOOR](https://github.com/divyanshukapoor)
 - Place: Allahabad, UP, India
 - Bio: I love learning! 
