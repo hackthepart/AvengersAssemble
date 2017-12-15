@@ -159,6 +159,12 @@
 - Place: Rudrapur, Uttarakhand, India
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+
+#### Name: [SHASHWAT PANDEY](https://github.com/shashwat1998)
+- Place: Allahabad, UP, India
+- Bio: A code blooded noobie 
+- GitHub: [Shashwat Pandey](https://github.com/shashwat1998)
+
 #### Name: [Vivek Rathi](https://github.com/vivekrathi53)
 - Place: Allahabad, Uttar Pradesh , India
 - Bio: Very enthusiastic to learn.
@@ -177,3 +183,4 @@
 -Place: Ghaziabad,UP,India
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
+
