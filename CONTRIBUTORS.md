@@ -1,3 +1,9 @@
+#### Name: [Sahil Kumar Agrawal](https://github.com/RichieRich17)
+- Place: Kathmandu,Nepal
+- Bio: An Innovator, crazy and creative
+- GitHub: [RichieRich17](https://github.com/RichieRich17)
+
+
 #### Name: [Aniket Kumar](https://github.com/Aniket468)
 - Place: Allahabad, UP, India
 - Bio: I love Devlopping and contributing to open source 
