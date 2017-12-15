@@ -184,3 +184,8 @@
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
 
+#### Name: [Sri Ram Khandelwal](https://github.com/ram2408)
+- Place: Dhanbad, Jharkhand , India
+- Bio:Optimitic and geek guy. 
+- GitHub: [Sri Ram Khandelwal](https://github.com/ram2408)
+
