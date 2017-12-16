@@ -184,3 +184,8 @@
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
 
+#### Name: [Abhishek Kumar](https://github.com/abhi1358)
+- Place: Allahabad, UP, India
+- Bio: A Programmer who loves Developing 
+- GitHub: [Abhishek Kumar](https://github.com/abhi1358)
+
