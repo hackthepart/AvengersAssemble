@@ -184,3 +184,8 @@
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
 
+
+#### Name: [DIPUNJ GUPTA](www.dipunjgupta.me)
+-Place: Shahjahanpur,UP,India
+-Bio: Machine learning enthusiast, Linux is <3.
+-Github: [Dipunj Gupta](https://github.com/packetChor)
