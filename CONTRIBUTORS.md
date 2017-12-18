@@ -94,3 +94,9 @@
 - Place: Lucknow, UP, India
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
+
+
+#### Name: [KOMAL KHANDELWAL](https://github.com/khandelwalkomal)
+-Place: Hindaun City, Rajasthan, India
+-Bio: A Curious Sophomore
+-GitHub: [komal khandelwal](https://github.com/khandelwalkomal)
