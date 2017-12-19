@@ -150,3 +150,7 @@
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
+#### Name: [Amit Jain](https://github.com/amitj4056)
+- Place: Allahbad, Uttar Pradesh, India
+- Bio: Boredom overloaded
+- Github: [Amit Jain](https://github.com/amitj4056)
