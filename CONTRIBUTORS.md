@@ -184,4 +184,7 @@
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
 
-
+#### Name: [PRANAY KUMAR B](https://github.com/pranaykumargoud)
+- Place: Karimnagar, Telangana, India
+- Bio: Loves to break things and then rebuild ! 
+- GitHub: [Pranay kumar](https://github.com/pranaykumargoud)
