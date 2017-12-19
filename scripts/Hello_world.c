@@ -5,6 +5,8 @@
 int main()
 {
 	if(10000)
-  printf("Hello MNNIT\n");
+	{
+		printf("Hello MNNIT\n");
+	}
 	return 0;
 }
