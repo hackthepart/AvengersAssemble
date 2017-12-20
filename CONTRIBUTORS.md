@@ -130,6 +130,12 @@
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
 
 
+
+#### Name: [KOMAL KHANDELWAL](https://github.com/khandelwalkomal)
+-Place: Hindaun City, Rajasthan, India
+-Bio: A Curious Sophomore
+-GitHub: [komal khandelwal](https://github.com/khandelwalkomal)
+
 #### Name: [VAIBHAV RAIZADA](https://github.com/vaibhav28398)
 - Place: Lucknow, U.P., India
 - Bio: Cogitative, Learner and a big foodie.
@@ -213,3 +219,4 @@
 - Place: Allahabad, UP, India
 - Bio: Keen learner.
 - GitHub: [Prem Kagrani](https://github.com/michaelscof)
+
