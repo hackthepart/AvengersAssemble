@@ -1,16 +1,13 @@
 /*
-LANGUAGE: java
-AUTHOR:         Kartik Mahendru
-GITHUB:         https://github.com/kartikMahendru
+ LANGUAGE: java
+ AUTHOR  : [ANUJ MODI](https://github.com/descifrado)
+ GITHUB  : https://github.com/descifrado
 */
 
-import java.io.*
-
-class Hello{
-
-
-public static void main(String args[]){
-
-System.out.println("Hello MNNIT!");
+public class hello
+{
+public static void main(String args[])
+{
+System.out.println("Hello WORLD!");
 }
 }
