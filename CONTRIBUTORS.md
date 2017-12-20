@@ -185,6 +185,10 @@
 - Place: Allahbad, Uttar Pradesh, India
 - Bio: Boredom overloaded
 - Github: [Amit Jain](https://github.com/amitj4056)
+#### Name: [Shiladitya Ganguly](https://github.com/shiladitya357)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: Quizzing, Cricket, Debate, Read, Eat, Sleep, Repeat
+- Github: [Shiladitya Ganguly](https://github.com/shiladitya357)
 
 #### Name: [SHASHWAT PANDEY](https://github.com/shashwat1998)
 - Place: Allahabad, UP, India
