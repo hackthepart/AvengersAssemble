@@ -155,6 +155,11 @@
 -Bio: Coding is life. 
 -Github: [Mredul Jain](https://githubcom/mjl4043)
 
+#### Name: [SHEKHAR KUMAR](https://github.com/shekharmnnit)
+-Place: Allahabad,UP,India
+-Bio: Loves travelling
+-Github: [Shekhar Kumar](https://github.com/shekharmnnit)
+
 #### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 - Place: Rudrapur, Uttarakhand, India
 - Bio: I like to play games and code them out . 
@@ -164,7 +169,7 @@
 - Place: Allahbad, Uttar Pradesh, India
 - Bio: Boredom overloaded
 - Github: [Amit Jain](https://github.com/amitj4056)
-=======
+
 #### Name: [SHASHWAT PANDEY](https://github.com/shashwat1998)
 - Place: Allahabad, UP, India
 - Bio: A code blooded noobie 
