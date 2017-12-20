@@ -243,3 +243,8 @@
 -Place: Ghaziabad,UP,India
 -Bio: Another brick in the wall.
 -Github: [Sidhant Kohli](https://github.com/kohlisid)
+
+#### Name: [SURBHIT AWASTHI](https://github.com/surbhitawasthi)
+- Place: Lucknow, UP, India
+- Bio: Kind of development lover and CTF enthusiast 
+- GitHub: [SURBHIT AWASTHI](https://github.com/surbhitawasthi)
