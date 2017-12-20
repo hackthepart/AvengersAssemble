@@ -229,3 +229,8 @@
 - Place: Allahabad, UP, India
 - Bio: Keen learner.
 - GitHub: [Prem Kagrani](https://github.com/michaelscof)
+
+#### Name: [SIDHANT KOHLI](https://github.com/kohlisid)
+-Place: Ghaziabad,UP,India
+-Bio: Another brick in the wall.
+-Github: [Sidhant Kohli](https://github.com/kohlisid)
