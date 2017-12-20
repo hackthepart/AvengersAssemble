@@ -225,6 +225,11 @@
 -Bio: A travelling enthusiast and cars lover.
 -Github: [Garvit Gupta](https://github.com/garvit14)
 
+#### Name: [DIPUNJ GUPTA](www.dipunjgupta.me)
+-Place: Shahjahanpur,UP,India
+-Bio: Machine learning enthusiast, Linux is <3.
+-Github: [Dipunj Gupta](https://github.com/packetChor)
+
 #### Name: [PREM KAGRANI](https://github.com/michaelscof)
 - Place: Allahabad, UP, India
 - Bio: Keen learner.
