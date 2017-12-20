@@ -1,3 +1,9 @@
+#### Name: [Sahil Kumar Agrawal](https://github.com/RichieRich17)
+- Place: Kathmandu,Nepal
+- Bio: An Innovator, crazy and creative
+- GitHub: [RichieRich17](https://github.com/RichieRich17)
+
+
 #### Name: [Aniket Kumar](https://github.com/Aniket468)
 - Place: Allahabad, UP, India
 - Bio: I love Devlopping and contributing to open source 
@@ -9,6 +15,10 @@
 - Bio: I love gaming! 
 - GitHub: [Jatin Rungta](https://github.com/urdarinda)
 
+#### Name: [KAILASH CHAND SAINI](https://github.com/kailash28)
+- Place: Karauli,Rajasthan,INDIA
+- Bio: Hi!! my name is kailash.I am pursuing B.tech. from MNNIT Allahabad in computer science and engineering.I love cricket and              volleyball.  
+- GitHub : [Kailash chand saini](https://github.com/kailash28)
 
 #### Name: [RITUPARNO BISWAS](https://github.com/roopbiswas)
 - Place: Allahabad, UP, India
@@ -130,6 +140,12 @@
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
 
 
+
+#### Name: [KOMAL KHANDELWAL](https://github.com/khandelwalkomal)
+-Place: Hindaun City, Rajasthan, India
+-Bio: A Curious Sophomore
+-GitHub: [komal khandelwal](https://github.com/khandelwalkomal)
+
 #### Name: [VAIBHAV RAIZADA](https://github.com/vaibhav28398)
 - Place: Lucknow, U.P., India
 - Bio: Cogitative, Learner and a big foodie.
@@ -155,10 +171,20 @@
 -Bio: Coding is life. 
 -Github: [Mredul Jain](https://githubcom/mjl4043)
 
+#### Name: [SHEKHAR KUMAR](https://github.com/shekharmnnit)
+-Place: Allahabad,UP,India
+-Bio: Loves travelling
+-Github: [Shekhar Kumar](https://github.com/shekharmnnit)
+
 #### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 - Place: Rudrapur, Uttarakhand, India
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
+
+#### Name: [Amit Jain](https://github.com/amitj4056)
+- Place: Allahbad, Uttar Pradesh, India
+- Bio: Boredom overloaded
+- Github: [Amit Jain](https://github.com/amitj4056)
 
 #### Name: [SHASHWAT PANDEY](https://github.com/shashwat1998)
 - Place: Allahabad, UP, India
@@ -183,9 +209,33 @@
 -Place: Ghaziabad,UP,India
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
+#### Name: [JUGTA RAM](https://github.com/jugtaram)
+- Place: Allahabad, UP, India
+- Bio: I like to develope things with new language/technic
+- GitHub: [avisheksanvas](https://github.com/avisheksanvas
 
+#### Name: [Sri Ram Khandelwal](https://github.com/ram2408)
+- Place: Dhanbad, Jharkhand , India
+- Bio:Optimitic and geek guy. 
+- GitHub: [Sri Ram Khandelwal](https://github.com/ram2408)
+
+
+#### Name: [GARVIT GUPTA](https://github.com/garvit14)
+-Place: Haridwar,Uttarakhand,India
+-Bio: A travelling enthusiast and cars lover.
+-Github: [Garvit Gupta](https://github.com/garvit14)
 
 #### Name: [DIPUNJ GUPTA](www.dipunjgupta.me)
 -Place: Shahjahanpur,UP,India
 -Bio: Machine learning enthusiast, Linux is <3.
 -Github: [Dipunj Gupta](https://github.com/packetChor)
+
+#### Name: [PREM KAGRANI](https://github.com/michaelscof)
+- Place: Allahabad, UP, India
+- Bio: Keen learner.
+- GitHub: [Prem Kagrani](https://github.com/michaelscof)
+
+#### Name: [SIDHANT KOHLI](https://github.com/kohlisid)
+-Place: Ghaziabad,UP,India
+-Bio: Another brick in the wall.
+-Github: [Sidhant Kohli](https://github.com/kohlisid)
