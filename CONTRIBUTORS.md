@@ -243,3 +243,9 @@
 -Place: Ghaziabad,UP,India
 -Bio: Another brick in the wall.
 -Github: [Sidhant Kohli](https://github.com/kohlisid)
+
+#### Name: [SHIVAM AGRAWAL](https://github.com/shivam-mnnit)
+-Place: Varanasi, UP, India
+-Bio: A budding coder and a developer.
+-Github: [Shivam Agrawal](https://github.com/shivam-mnnit)
+
