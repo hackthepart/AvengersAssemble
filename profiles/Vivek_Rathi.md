@@ -1,22 +1,4 @@
-# VIVEK RATHI
-
-### Location
-
-Allahabad , India
-
-### Academics
-
-Undergraduate in B.Tech (CSE) from MNNIT expected (2021).
-
-### Interests
-
--Competitive coding and Web development
-
-### Development
-
--Working on frontend development by HTML, CSS , Javascript, and Bootstrap.
-
-### Profile Link
-
-Vivek Rathi  (https://github.com/vivekrathi53)
-
+#### Name: [VIVEK RATHI](https://github.com/vivekrathi53)
+- Place: Allahabad, UP, India
+- Bio: Very enthusiastic to learn. 
+- GitHub: [Vivek Rathi](https://github.com/vivekrathi53)
