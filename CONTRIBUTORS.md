@@ -214,6 +214,10 @@
 - Bio: I like to develope things with new language/technic
 - GitHub: [avisheksanvas](https://github.com/avisheksanvas
 
+#### Name: [Abhishek Kumar](https://github.com/abhi1358)
+- Place: Allahabad, UP, India
+- Bio: A Programmer who loves Developing 
+- GitHub: [Abhishek Kumar](https://github.com/abhi1358)
 #### Name: [Sri Ram Khandelwal](https://github.com/ram2408)
 - Place: Dhanbad, Jharkhand , India
 - Bio:Optimitic and geek guy. 
