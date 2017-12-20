@@ -160,6 +160,11 @@
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
+#### Name: [Amit Jain](https://github.com/amitj4056)
+- Place: Allahbad, Uttar Pradesh, India
+- Bio: Boredom overloaded
+- Github: [Amit Jain](https://github.com/amitj4056)
+=======
 #### Name: [SHASHWAT PANDEY](https://github.com/shashwat1998)
 - Place: Allahabad, UP, India
 - Bio: A code blooded noobie 
@@ -188,4 +193,3 @@
 - Place: Allahabad, UP, India
 - Bio: Keen learner.
 - GitHub: [Prem Kagrani](https://github.com/michaelscof)
-
