@@ -194,6 +194,12 @@
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
 
+
+#### Name: [GARVIT GUPTA](https://github.com/garvit14)
+-Place: Haridwar,Uttarakhand,India
+-Bio: A travelling enthusiast and cars lover.
+-Github: [Garvit Gupta](https://github.com/garvit14)
+
 #### Name: [PREM KAGRANI](https://github.com/michaelscof)
 - Place: Allahabad, UP, India
 - Bio: Keen learner.
