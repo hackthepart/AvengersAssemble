@@ -252,3 +252,8 @@
 - Place: Karimnagar, Telangana, India
 - Bio: Loves to break things and then rebuild.
 - GitHub: [Pranay kumar B](https://github.com/pranaykumargoud)
+
+#### Name: [HIMANSHU KUMAR GAUTAM](https://github.com/hgautam2010)
+- Place: Allahabad, UP, India
+- Bio: A creative coder <3
+- Github: [Himanshu Kumar Gautam](https://github.com/hgautam2010)
