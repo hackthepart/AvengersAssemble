@@ -243,3 +243,8 @@
 -Place: Ghaziabad,UP,India
 -Bio: Another brick in the wall.
 -Github: [Sidhant Kohli](https://github.com/kohlisid)
+
+#### Name: [PRANAY KUMAR B](https://github.com/pranaykumargoud)
+- Place: Karimnagar, Telangana, India
+- Bio: Loves to break things and then rebuild.
+- GitHub: [Pranay kumar B](https://github.com/pranaykumargoud)
