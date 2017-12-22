@@ -8,12 +8,10 @@
 - Bio: An Innovator, crazy and creative
 - GitHub: [RichieRich17](https://github.com/RichieRich17)
 
-
 #### Name: [Aniket Kumar](https://github.com/Aniket468)
 - Place: Allahabad, UP, India
 - Bio: I love Devlopping and contributing to open source
 - GitHub: [Aniket Kumar](https://github.com/Aniket468)
-
 
 #### Name: [JATIN RUNGTA](https://github.com/urdarinda)
 - Place: Allahabad, UP, India
@@ -78,9 +76,9 @@
 - GitHub: [Mohammed Farhan](https://github.com/lordfarhan40)
 
 #### Name: [NICK NITIN](https://github.com/nitindoodhiya)
--Place: Allahabad, UP, India.
--Bio: Just a begginer but believes in going high and high.
--Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
+- Place: Allahabad, UP, India.
+- Bio: Just a begginer but believes in going high and high.
+- Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
 
 #### Name: [VIHAN RAI](https://github.com/thevihanrai)
 - Place: Bengaluru, Karnataka, India
@@ -93,9 +91,9 @@
 - GitHub: [Hrikshit Raj Chauhan](https://github.com/methDeveloper)
 
 #### Name: [SIDDHARTH MAJUMDAR](https://github.com/sidmojo)
--Place: Kanpur, UP, India
--Bio: A Curious Sophomore
--GitHub: [Siddharth Majumdar](https://github.com/sidmojo)
+- Place: Kanpur, UP, India
+- Bio: A Curious Sophomore
+- GitHub: [Siddharth Majumdar](https://github.com/sidmojo)
 
 #### Name: [ARSH SINGH](https://github.com/iosdev474)
 - Place: Allahabad, UP, India
@@ -118,9 +116,9 @@
 - Github: [Abhey Rana](https://github.com/Abhey)
 
 ### Name: [KHYATI GARG](https://github.com/khyatigarg2014)
--Place: Allahabad, UP,India
--Bio: love to learn
--Github: [khyati garg](https://github.com/khyatigarg2014)
+- Place: Allahabad, UP,India
+- Bio: love to learn
+- Github: [khyati garg](https://github.com/khyatigarg2014)
 
 #### Name: [LOKESH KHANCHANDANI](https://github.com/LokeshKhanchandani)
 - Place: Agra, UP, India
@@ -171,15 +169,16 @@
 - Place: Kanpur, UP, India
 - Bio: I love developing.
 - GitHub: [Mehul Garg](https://github.com/gargmehul10)
+
 #### Name: [MREDUL JAIN](https://github.com/mjl4043)
--Place: Ludhiana,Punjab,India
--Bio: Coding is life.
--Github: [Mredul Jain](https://githubcom/mjl4043)
+- Place: Ludhiana,Punjab,India
+- Bio: Coding is life. 
+- Github: [Mredul Jain](https://githubcom/mjl4043)
 
 #### Name: [SHEKHAR KUMAR](https://github.com/shekharmnnit)
--Place: Allahabad,UP,India
--Bio: Loves travelling
--Github: [Shekhar Kumar](https://github.com/shekharmnnit)
+- Place: Allahabad,UP,India
+- Bio: Loves travelling
+- Github: [Shekhar Kumar](https://github.com/shekharmnnit)
 
 #### Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 - Place: Rudrapur, Uttarakhand, India
@@ -190,6 +189,7 @@
 - Place: Allahbad, Uttar Pradesh, India
 - Bio: Boredom overloaded
 - Github: [Amit Jain](https://github.com/amitj4056)
+
 #### Name: [Shiladitya Ganguly](https://github.com/shiladitya357)
 - Place: Allahabad, Uttar Pradesh, India
 - Bio: Quizzing, Cricket, Debate, Read, Eat, Sleep, Repeat
@@ -209,15 +209,17 @@
 - Place: Ghaziabad, Uttar Pradesh, India.
 - Bio: A programming ENTHUSIAST....
 - GitHub: [ANUJ MODI](https://github.com/descifrado)
+
 #### Name: [Sparsh Mittal](https://github.com/Sparsh-Mittal)
 - Place: Muzaffarnagar, UP, India
 - Bio: An enthusiast coder who loves gaming.
 - GitHub: [Sparsh Mittal](https://github.com/Sparsh-Mittal)
 
 #### Name: [SWATI JAIN](https://github.com/swati345)
--Place: Ghaziabad,UP,India
--Bio: Cynical optimist and a knowledgeable idiot .
--Github: [Swati Jain](https://github.com/swati345)
+- Place: Ghaziabad,UP,India
+- Bio: Cynical optimist and a knowledgeable idiot .
+- Github: [Swati Jain](https://github.com/swati345)
+
 #### Name: [JUGTA RAM](https://github.com/jugtaram)
 - Place: Allahabad, UP, India
 - Bio: I like to develope things with new language/technic
@@ -254,9 +256,9 @@
 - Github : [Aayush Chauhan](https://github.com/aayush20168048)
 
 #### Name: [SIDHANT KOHLI](https://github.com/kohlisid)
--Place: Ghaziabad,UP,India
--Bio: Another brick in the wall.
--Github: [Sidhant Kohli](https://github.com/kohlisid)
+- Place: Ghaziabad,UP,India
+- Bio: Another brick in the wall.
+- Github: [Sidhant Kohli](https://github.com/kohlisid)
 
 #### Name: [PRANAY KUMAR B](https://github.com/pranaykumargoud)
 - Place: Karimnagar, Telangana, India
