@@ -243,6 +243,11 @@
 - Bio: Keen learner.
 - GitHub: [Prem Kagrani](https://github.com/michaelscof)
 
+#### Name : [AAYUSH CHAUHAN](https://github.com/aayush20168048)
+- Place: India
+- Bio :  Still searching my interests
+- Github : [Aayush Chauhan](https://github.com/aayush20168048)
+
 #### Name: [SIDHANT KOHLI](https://github.com/kohlisid)
 -Place: Ghaziabad,UP,India
 -Bio: Another brick in the wall.
@@ -257,3 +262,8 @@
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: A simple boy with keen interest in learning new things.
 - GitHub: [Yasharth Singh](https://github.com/yasharths)
+
+#### Name: [HIMANSHU KUMAR GAUTAM](https://github.com/hgautam2010)
+- Place: Allahabad, UP, India
+- Bio: A creative coder <3
+- Github: [Himanshu Kumar Gautam](https://github.com/hgautam2010)
