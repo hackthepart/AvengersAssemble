@@ -243,6 +243,11 @@
 - Bio: Keen learner.
 - GitHub: [Prem Kagrani](https://github.com/michaelscof)
 
+#### Name : [AAYUSH CHAUHAN](https://github.com/aayush20168048)
+- Place: India
+- Bio :  Still searching my interests
+- Github : [Aayush Chauhan](https://github.com/aayush20168048)
+
 #### Name: [SIDHANT KOHLI](https://github.com/kohlisid)
 -Place: Ghaziabad,UP,India
 -Bio: Another brick in the wall.
