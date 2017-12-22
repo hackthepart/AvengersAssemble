@@ -1,6 +1,6 @@
 #### Name: [UTKARSH GARG](https://github.com/utkarsh22garg)
-- Place: Allahabad ,U.P. ,INDIA.
-- Bio: A passionate Android enthusiast.
+- Place: Sawai Madhopur, Rajasthan, INDIA.
+- Bio: A passionate Android developer.
 - GitHub: [UTKARSH GARG](https://github.com/utkarsh22garg)
 
 #### Name: [Sahil Kumar Agrawal](https://github.com/RichieRich17)
