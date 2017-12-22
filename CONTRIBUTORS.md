@@ -252,3 +252,8 @@
 - Place: Karimnagar, Telangana, India
 - Bio: Loves to break things and then rebuild.
 - GitHub: [Pranay kumar B](https://github.com/pranaykumargoud)
+
+#### Name: [Yasharth Singh](https://github.com/yasharths)
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: A simple boy with keen interest in learning new things.
+- GitHub: [Yasharth Singh](https://github.com/yasharths)
