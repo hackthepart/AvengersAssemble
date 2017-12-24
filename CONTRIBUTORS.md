@@ -280,3 +280,7 @@
 - Bio: Uncondition love for deeloping and Machine Learning
 - GitHub: [ABHISHEK KUMAR SINGH](https://github.com/Abhishek1103)
 
+#### Name: [SUMIT SINGH](https://github.com/satan-nightmare)
+- Place: Rtalam, Madhya Pradesh, India
+- Bio: Anime addict
+- GitHub: [SUMIT SINGH](https://github.com/satan-nightmare)
