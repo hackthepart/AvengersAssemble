@@ -280,3 +280,8 @@
 - Bio: Uncondition love for deeloping and Machine Learning
 - GitHub: [ABHISHEK KUMAR SINGH](https://github.com/Abhishek1103)
 
+#### Name: [NEEL NEOGI](https://github.com/neelflash07)
+- Place: Siliguri, West Bengal, India
+- Bio: Connoisseur of MARVEL by day, A true DC fan by "knight"
+- GitHub: [Neel Neogi](https://github.com/neelflash07)
+
