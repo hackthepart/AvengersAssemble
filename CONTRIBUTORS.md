@@ -1,3 +1,8 @@
+#### Name: [SUSHANT OBEROI](https://github.com/soc3)
+- Place: Agra, Uttar Pradesh, INDIA.
+- Bio: A serious developer...!! who loves to contribute to open source...!!.
+- GitHub: [SUSHANT OBEROI](https://github.com/soc3)
+
 #### Name: [UTKARSH GARG](https://github.com/utkarsh22garg)
 - Place: Sawai Madhopur, Rajasthan, INDIA.
 - Bio: A passionate Android developer.
