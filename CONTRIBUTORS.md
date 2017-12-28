@@ -172,7 +172,7 @@
 
 #### Name: [MREDUL JAIN](https://github.com/mjl4043)
 - Place: Ludhiana,Punjab,India
-- Bio: Coding is life. 
+- Bio: Coding is life.
 - Github: [Mredul Jain](https://githubcom/mjl4043)
 
 #### Name: [SHEKHAR KUMAR](https://github.com/shekharmnnit)
@@ -277,6 +277,5 @@
 
 #### Name: [ABHISHEK KUMAR SINGH](https://github.com/Abhishek1103)
 - Place: Sonbhadra, Uttar Pradesh, India
-- Bio: Uncondition love for deeloping and Machine Learning
+- Bio: Unconditional love for developing and Machine Learning
 - GitHub: [ABHISHEK KUMAR SINGH](https://github.com/Abhishek1103)
-
