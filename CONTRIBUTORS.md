@@ -1,3 +1,8 @@
+#### Name: [AKSHIT SHARMA](https://github.com/khitk9738)
+- Place: Meerut, Uttar Pradesh, INDIA.
+- Bio: There is no place like 127.0.0.0
+- GitHub: [AKSHIT SHARMA](https://github.com/khitk9738)
+
 #### Name: [SUSHANT OBEROI](https://github.com/soc3)
 - Place: Agra, Uttar Pradesh, INDIA.
 - Bio: A serious developer...!! who loves to contribute to open source...!!.
