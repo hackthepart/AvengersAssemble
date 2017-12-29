@@ -287,15 +287,10 @@
 
 #### Name: [ABHISHEK KUMAR SINGH](https://github.com/Abhishek1103)
 - Place: Sonbhadra, Uttar Pradesh, India
-<<<<<<< HEAD
 - Bio: Unconditional love for developing and Machine Learning
-- GitHub: [ABHISHEK KUMAR SINGH](https://github.com/Abhishek1103)
-=======
-- Bio: Uncondition love for deeloping and Machine Learning
 - GitHub: [ABHISHEK KUMAR SINGH](https://github.com/Abhishek1103)
 
 #### Name: [SUMIT SINGH](https://github.com/satan-nightmare)
 - Place: Rtalam, Madhya Pradesh, India
 - Bio: Anime addict
 - GitHub: [SUMIT SINGH](https://github.com/satan-nightmare)
->>>>>>> 8e2faaac80465e54e97d395c4349d60a29b4d1fd
