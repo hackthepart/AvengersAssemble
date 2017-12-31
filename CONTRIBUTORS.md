@@ -184,3 +184,8 @@
 -Bio: Cynical optimist and a knowledgeable idiot .
 -Github: [Swati Jain](https://github.com/swati345)
 
+#### Name: [GAURAV KATARE](https://github.com/GauravKatare)
+- Place: Mirzapur,UP,India
+- Bio: Love coding.
+- Github: [GAURAV KATARE](https://github.com/GauravKatare)
+
