@@ -294,3 +294,8 @@
 - Place: Rtalam, Madhya Pradesh, India
 - Bio: Anime addict
 - GitHub: [SUMIT SINGH](https://github.com/satan-nightmare)
+
+#### Name: [GAURAV KATARE](https://github.com/GauravKatare)
+- Place: Mirzapur, Uttar Pradesh, India
+- Bio: Love to code
+- GitHub: [Gaurav Katare](https://github.com/GauravKatare)
