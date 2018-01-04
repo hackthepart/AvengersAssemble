@@ -299,3 +299,9 @@
 - Place: Mirzapur, Uttar Pradesh, India
 - Bio: Love to code
 - GitHub: [Gaurav Katare](https://github.com/GauravKatare)
+
+#### Name: [PRAJJWAL YADAV](https://github.com/prajjyadav)
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: Developer by choice, electronics by fate.
+- Github: [PRAJJWAL YADAV](https://github.com/prajjyadav)
+
