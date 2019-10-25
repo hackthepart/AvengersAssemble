@@ -2,6 +2,7 @@
 
 Hello NOOBS sup
 
+
 Use this project to make your first contribution to the world of Open Source on GitHub :octocat: . Practice making your first pull request to a public repository before doing the real thing!
 
 Join us by getting involved in the open source community solving some interesting tasks along the way.
@@ -13,11 +14,19 @@ ALSO NOTE THAT THIS IS INDEPENDENT OF HACK36 and is being solely done for the ch
 
 [https://github.com/hackthepart/](https://github.com/hackthepart/)
 
+
+
 #### **Make sure to get your student pack here:**
+
+
 [https://education.github.com/pack](https://education.github.com/pack)
 
 
+
+
 ## What is HackThePart?
+
+
 
 A month-long contest from Dec 10th - Jan 10th to get people involved in [Open Source](https://github.com/open-source). This repo is just the guide to get started on github. We have a lot of different projects coming up. So start contributing and while you are at it, keep checking for more projects as they are added!
 
@@ -43,6 +52,8 @@ If you don't know what the above means , just keep reading ... you'll get there.
 ## We will not be accepting more PR's until the formatting of the current files is fixed. Please fix those, referencing the issues present. Also note that the issues and the PR have common # numbers , so the first issue might not be #1 but could be #138 . Please check this before referencing the issue. Incorrect # numbers will not be merged.
 
 ## How to contribute to this project
+
+
 Here are 4 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
@@ -53,7 +64,11 @@ Here are 4 quick and painless ways to contribute to this project:
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ## Getting Started
-* Fork this repository (click the Fork button in the top right of this page, click your Profile Image)
+
+
+* Fork this repository (click the Fork button 
+
+in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 ```markdown
 git clone https://github.com/your-username/XXXXX.git
@@ -75,6 +90,7 @@ git push origin branch-name
 
 ## Choose from these tasks
 ### 1. Add your name
+
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
@@ -89,6 +105,7 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 
 ```markdown
 # Your Name
+
 
 ### Location
 
